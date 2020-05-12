@@ -1,3 +1,3 @@
 # shoppingCard
 
-# use simple mvn commands to compile , test  etc.
+# use simple mvn commands to compile , test , package etc.
